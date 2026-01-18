@@ -2,7 +2,6 @@ Particle Flows for State-Space Models
 Implementation for: Part 1 – From classical filters to particle flows
 This repository implements the required assignments in Part 1 of the question 2:
 
-
 Requirements
 Create a file named requirements.txt:
 
