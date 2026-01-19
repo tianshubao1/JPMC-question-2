@@ -70,3 +70,21 @@ python part2_stochastic_flow.py
 # Compare Li(17) Baseline vs Dai(22) Enhanced Flow
 python part2_LEDH_improvement.py
 ```
+
+2. Differentiable Particle Filters
+```
+# Run Soft Resampling DPF Demo
+python part2_soft_dpf.py
+
+# Run Sinkhorn OT Resampling Demo
+python part2_sinkhorn_ot.py
+
+# Run Full Comparison Benchmark (Soft vs OT vs Neural)
+python part2_ii_compare.py
+```
+
+Run All Unit Tests
+This will verify BVP solvers, SDE drifts, gradients, and resampling logic.
+```
+pytest -q
+```
