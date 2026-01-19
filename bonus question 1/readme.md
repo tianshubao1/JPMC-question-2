@@ -22,5 +22,5 @@ tf-keras
 .
 ├── bonus_part_a_pmmh.py       # Part (a): PMMH with Li(17) Invertible Flow
 ├── bonus_part_b_hmc.py        # Part (b): HMC with Differentiable PF (Sinkhorn OT)
-└── bonus_part_c_report        # Part (c): Comparison Report & Analysis
+└── bonus_question_1c.pdf      # Part (c): Comparison Report & Analysis
 ```
